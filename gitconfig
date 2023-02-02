@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pinto.theo@icloud.com
+	name = theo pinto--dalle
